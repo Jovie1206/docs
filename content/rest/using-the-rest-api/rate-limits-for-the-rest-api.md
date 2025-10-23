@@ -1,3 +1,4 @@
+![Uploading 25252.jpg…]()
 ---
 title: Rate limits for the REST API
 shortTitle: Rate limits
